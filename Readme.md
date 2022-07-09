@@ -2,6 +2,7 @@
 <h3 align="center">A passionate developer from India</h3>
 
 <h3 align="left">About me:</h3>
+
 - 🌱 I’m currently learning **Javascript Fundamentals**
 
 - 👨‍💻 All of my projects available in my [portfolio](portfolio)(coming soon)
