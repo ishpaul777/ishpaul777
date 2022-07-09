@@ -1,11 +1,13 @@
 <h1 align="center">Hi 👋, I'm Ishpaul Singh</h1>
 <h3 align="center">A passionate developer from India</h3>
 
+<h3 align="left">About me:</h3>
 - 🌱 I’m currently learning **Javascript Fundamentals**
 
-- 👨‍💻 All of my projects available in my [portfolio](portfolio)
+- 👨‍💻 All of my projects available in my [portfolio](portfolio)(coming soon)
 
 - 📫 Shoot me a email at **ishpaul207@gmail.com**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
