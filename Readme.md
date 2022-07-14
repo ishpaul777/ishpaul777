@@ -3,7 +3,7 @@
 
 <h3 align="left">About me:</h3>
 
-- 🌱 I’m currently learning **Javascript Fundamentals**
+- 🌱 I’m currently enrolled in [Microverse](https://www.microverse.org/) and learning **Javascript Fundamentals**
 
 - 👨‍💻 All of my projects available in my [portfolio](portfolio)(coming soon)
 
