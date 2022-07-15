@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently enrolled in [Microverse](https://www.microverse.org/) and learning **Javascript Fundamentals**
 
-- 👨‍💻 All of my projects available in my [portfolio](portfolio)(coming soon)
+- 👨‍💻 All of my projects available in my [portfolio](https://ishpaul777.github.io/Portfolio/)
 
 - 📫 Shoot me a email at **ishpaul207@gmail.com**
 
