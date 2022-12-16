@@ -6,12 +6,12 @@
 - 🌱 I’m currently enrolled in [Microverse](https://www.microverse.org/) and learning **Javascript and Ruby on Rails Fundamentals**.
 - 🤝 I have been working on my technical and soft skills and I am looking to collaborate and worki with a team of people who are passionate about what they are doing.
 - 💻 I am very interested in learning about use of Blockchain (Paticularly its use cases to Decentralize Finance) and AR/VR Industry.
+- 📫 Shoot me a email at **ishpaul207@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/ishpaul_777" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ishpaul_777" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ishpaulsingh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ishpaulsingh" height="30" width="40" /></a>
-- 📫 Shoot me a email at **ishpaul207@gmail.com**
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
