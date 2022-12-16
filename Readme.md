@@ -3,12 +3,9 @@
 
 <h3 align="left">About me:</h3>
 
-- 🌱 I’m currently enrolled in [Microverse](https://www.microverse.org/) and learning **Javascript Fundamentals**
-
-- 👨‍💻 All of my projects available in my [portfolio](https://ishpaul777.github.io/Portfolio/)
-
+- 🌱 I’m currently enrolled in [Microverse](https://www.microverse.org/) and learning **Javascript and Ruby on Rails Fundamentals**
+- 💻 I am very interested in learning about use of Blockchain (Paticularly its use cases to Decentralize Finance) and AR/VR Industry.
 - 📫 Shoot me a email at **ishpaul207@gmail.com**
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
