@@ -4,7 +4,7 @@
 <h3 align="left">About me:</h3>
 
 - 🌱 I’m currently enrolled in [Microverse](https://www.microverse.org/) and learning **Javascript and Ruby on Rails Fundamentals**.
-- 🤝 I have been working on my technical and soft skills and I am looking to collaborate and worki with a team of people who are passionate about what they are doing.
+- 🤝 I have been working on my technical and soft skills and I am looking to collaborate and working with a team of people who are passionate about what they are doing.
 - 💻 I am very interested in learning about use of Blockchain (Paticularly its use cases to Decentralize Finance) and AR/VR Industry.
 - 📫 Shoot me a email at **ishpaul207@gmail.com**
 
