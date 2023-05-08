@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ishpaul Singh</h1
 
-<h3 align="left">About me:</h3>
+<h3 align="left">About me:</h3> </br>
 - Full-stack Dev Currently focus on ReactJs, NextJs and Ruby on Rails. </br>
 - 📫 Shoot me a email at **ishpaul207@gmail.com** </br>
 
