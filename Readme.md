@@ -1,11 +1,7 @@
-<h1 align="center">Hi 👋, I'm Ishpaul Singh</h1>
-<h3 align="center">A passionate developer from India</h3>
+<h1 align="center">Hi 👋, I'm Ishpaul Singh</h1
 
 <h3 align="left">About me:</h3>
-
-- 🌱 I’m currently enrolled in [Microverse](https://www.microverse.org/) and learning **Javascript and Ruby on Rails Fundamentals**.
-- 🤝 I have been working on my technical and soft skills and I am looking to collaborate and working with a team of people who are passionate about what they are doing.
-- 💻 I am very interested in learning about use of Blockchain (Paticularly its use cases to Decentralize Finance) and AR/VR Industry.
+- Full-stack Dev Currently focus on ReactJs, NextJs and Ruby on Rails.
 - 📫 Shoot me a email at **ishpaul207@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
