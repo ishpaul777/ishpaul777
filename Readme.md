@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ishpaul Singh</h1
 
 <h3 align="left">About me:</h3>
-- Full-stack Dev Currently focus on ReactJs, NextJs and Ruby on Rails.
-- 📫 Shoot me a email at **ishpaul207@gmail.com**
+- Full-stack Dev Currently focus on ReactJs, NextJs and Ruby on Rails. </br>
+- 📫 Shoot me a email at **ishpaul207@gmail.com** </br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
