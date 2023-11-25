@@ -1,3 +1,4 @@
 <h1 align="center">Hi 👋, I'm Ishpaul Singh</h1>
 
-![ray-so-export (4)](https://github.com/ishpaul777/ishpaul777/assets/104348397/d95b35f3-5365-4a88-8368-21197841fc4b)
+![ray-so-export (5)](https://github.com/ishpaul777/ishpaul777/assets/104348397/08f85e57-81f3-4c52-8058-de7317d88abb)
+
